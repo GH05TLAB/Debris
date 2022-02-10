@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - objNode
+  - ALLOBJECTS
+  - redCursor
+  - blueCursor
+  - greenCursor
+  - whiteCursor
+  - whiteCur
+  - txtSelected
+  - mSlider
+  - mask
+  - redOpen
+  - blueOpen
+  - greenOpen
+  - redClose
+  - blueClose
+  - greenClose
+  - ver_1
+  - ver_2
+  - ver_3
+  - ver_4
+  - ver_5
+  - Edge
+  - red
+  - green
+  - blue
+  - red+green
+  - green+blue
+  - AllColor
+  - white
+  - red+blue
+  - whiteLine
+  - redLine
+  - greenLine
+  - blueLine
+  - toggle
+  - heat
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: OBJECTS
+    uniqueID: 2390156663
+    locked: 0
